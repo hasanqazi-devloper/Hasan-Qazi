@@ -55,7 +55,7 @@ React-based todo app with local storage & animations.
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical&hide_border=true)  
-![Streak Stats](https://streak-stats.demolab.com?user=YourUserName&theme=radical&hide_border=true)
+
 
 ---
 
@@ -75,7 +75,7 @@ React-based todo app with local storage & animations.
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" /> -->
 </p>
 
 ---
