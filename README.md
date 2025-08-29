@@ -1,7 +1,7 @@
 <!-- PROFILE README TEMPLATE -->
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BCF3&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Your+Name;Frontend+Developer+%7C+React.js+%7C+JavaScript;Passionate+about+Clean+UI+%26+UX;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BCF3&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Hasan+Qazi;Frontend+Developer+%7C+React.js+%7C+JavaScript;Passionate+about+Clean+UI+%26+UX;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 ---
 
