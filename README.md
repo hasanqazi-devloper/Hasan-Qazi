@@ -64,12 +64,35 @@ React-based todo app with local storage & animations.
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/yourprofile/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=fff&style=for-the-badge)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:youremail@gmail.com)
+
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ### 💡 Quote
 > *"Code is like humor. When you have to explain it, it’s bad."*  
