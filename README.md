@@ -38,17 +38,18 @@
 ---
 
 ### 🚀 Featured Projects
-🌦 **Weather App**  
-Responsive React app using OpenWeather API.  
-🔗 [Live Demo](#) | [Repository](#)
 
-🛒 **E-Commerce Store**  
-Modern UI, React + Context API for state management.  
-🔗 [Live Demo](#) | [Repository](#)
+🛒 **E-Commerce Store**
+A modern React-based e-commerce site with a sleek UI and smooth shopping experience.
+🔗 [Live Demo](https://gamecrafter.netlify.app/) | [Repository](https://github.com/yourusername/ecommerce-store)
 
-📋 **Todo List Pro**  
-React-based todo app with local storage & animations.  
-🔗 [Live Demo](#) | [Repository](#)
+📐 **MathLab App**
+A student-focused web app with multiple calculators for solving different mathematical problems.
+🔗 [Live Demo](https://mathlab-app.netlify.app/) | [Repository](https://github.com/yourusername/mathlab-app)
+
+🎨 **CreativeXus Portfolio**
+My personal portfolio showcasing services, skills, and featured projects in frontend development.
+🔗 [Live Demo](https://creativexus-app.netlify.app/) | [Repository](https://github.com/yourusername/creativexus-portfolio)
 
 ---
 
